@@ -2,7 +2,7 @@
 
 I am **IntangibleMatter**, a game developer working primarily with Godot, but I love learning new engines, frameworks, and whatever else I can that seems cool or useful.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=500&color=069420&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=96&lines=Look+at+me;I'm+white+and+nerdy;%3A3)](https://git.io/typing-svg)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=intangiblematter&layout=compact&theme=midnight-purple)
 
 - Pronouns: ?????? Probably she/her????
 - Always working on some new game
